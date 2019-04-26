@@ -1,2 +1,2 @@
 # Intro.Progra
-El 1 Semestre de Mierda
+El 1 Semestre de Progra
