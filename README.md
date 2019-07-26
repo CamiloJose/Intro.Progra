@@ -1,2 +1,2 @@
 # Intro.Progra
-El 1 Semestre de Progra
+Los ejercicios de los semestres de programación
