@@ -1,3 +1,9 @@
+"""
+Fecha: 14-8-2029
+Semana: 4
+Respuestas - ejerc-3b-ii2019.py
+"""
+
 #Ejercicio 1
     #E: Radio
     #S: Volumen, Area
