@@ -1,3 +1,4 @@
+#sin indices
 def cuales_pares(lista):
     if isinstance(lista,list):
         return cuales_pares_aux(lista)
@@ -11,7 +12,7 @@ def cuales_pares_aux(lista):
     else:
         return cuales_pares_aux(lista[1:])
 #______________________________
-
+#con incices
 def cuales_pares2(lista):
     if isinstance(lista,list):
         return cuales_pares2_aux(lista, 0, len(lista))
