@@ -1,0 +1,15 @@
+https://parzibyte.me/blog/en/
+
+https://parzibyte.me/blog/en/2019/04/01/python-check-if-item-value-exists-in-list-array/#more-5782
+
+https://parzibyte.me/blog/en/2019/04/02/switch-in-python/
+
+Funciona pero no lo vimos en clase:
+
+    lista = ([0, 1, 2, 3, 4])
+
+    invertida_lista = lista[::-1]
+
+    invertida_lista
+
+    >>>[4, 3, 2, 1, 0]
