@@ -1,0 +1,17 @@
+Codigo,Descripcion,Existencia,Maximo,Costo,Precio,Venta,Imagen
+1,Llave maya 16 GB,18,25,15000,20000,5000,images/Llave maya de 16 gb.png
+2,Llave maya 128 GB,20,25,30000,50000,20000,images/Llave maya 128 G.png
+3,Audifonos Apple,10,15,8000,12500,4500,images/audifonos apple.png
+4,Bateria Externa,5,10,5000,6700,1700,images/bateria externa.png
+5,Cargador USB-C,10,10,2500,3500,1000,images/usb tipo C.png
+6,Mouse Inalambrico,3,5,5500,6500,1000,images/mouse inalambrico.png
+7,Teclado bluetooth,2,5,6500,8000,1500,images/teclado inalambrico.png
+8,GO - PRO,5,5,125000,150000,25000,images/GO PRO.png
+9,Telefono desechable 1,8,10,2000,4000,2000,images/telefono desechable 1.png
+10,Telefono desechable 2,7,10,2000,4000,2000,images/telefono desechable 2.png
+11,Amazon Fire Stick,7,10,45000,65000,20000,images/Amazon fire stickjpg.png
+12,Adaptador jack lightning audifonos,12,15,12000,15000,3000,images/adaptador-jack-lightning-audifonos.png
+13,Parlante Bluetooth Sony,3,5,25000,30000,5000,images/Parlante bluetooth Sony.png
+14,Parlante Bluetooth JBL,2,5,25500,35000,9500,images/Parlante bluetooth JBL.png
+15,Google Chromecast,1,5,38000,42000,4000,images/Google chromecast.png
+16,Audifonos Samsung,5,10,7000,11500,10800,images/audifonos_samsung.png
